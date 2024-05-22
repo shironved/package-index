@@ -1,0 +1,369 @@
+last_updated = 2024-05-22T20:30:36Z
+
+[packages]
+[packages.cutter]
+name = "Cutter"
+description = "Free and Open Source Reverse Engineering Platform powered by rizin"
+version = "2.1.2"
+repo_url = "https://github.com/Ral0s/cutter"
+repo_tag = "v2.1.2"
+license = "GPL-3.0"
+
+[packages.ghidra]
+name = "Ghidra"
+description = "Ghidra is a software reverse engineering (SRE) framework"
+version = "10.2"
+repo_url = "https://github.com/Ral0s/ghidra"
+repo_tag = "v10.2"
+license = " Apache-2.0"
+
+[packages.jadx]
+name = "JADX"
+description = "Dex to Java decompiler"
+version = "1.4.5"
+repo_url = "https://github.com/Ral0s/jadx"
+repo_tag = "v1.4.5"
+license = " Apache-2.0"
+
+[packages.apktool]
+name = "apktool"
+description = "A tool for reverse engineering Android apk files"
+version = "2.6.1"
+repo_url = "https://github.com/Ral0s/apktool"
+repo_tag = "v2.6.1"
+license = " Apache-2.0"
+
+[packages.frida]
+name = "frida"
+description = "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers."
+version = "16.0.2"
+repo_url = "https://github.com/Ral0s/frida"
+repo_tag = "v16.0.2"
+license = "wxWindows Library Licence, Version 3.1"
+
+[packages.bettercap]
+name = "bettercap"
+description = "The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks."
+version = "e224eea"
+repo_url = "https://github.com/Ral0s/bettercap"
+repo_tag = "ve224eea"
+license = "GPL-3.0"
+
+[packages.objection]
+name = "objection"
+description = "Runtime Mobile Exploration."
+version = "1.11.0"
+repo_url = "https://github.com/Ral0s/objection"
+repo_tag = "v1.11.0"
+license = "GPL-3.0"
+package_type = "snap"
+
+[packages.nmap]
+name = "nmap"
+description = "Free and open source utility for network discovery and security auditing"
+version = "7.92"
+repo_url = "https://github.com/Ral0s/nmap"
+repo_tag = "v7.92"
+license = "Nmap Public Source License Version 0.94"
+package_type = "snap"
+
+[packages.arduino]
+name = "arduino"
+description = "IDE for Arduino, an open source electronics platform"
+version = "2.0.0-rc9.2"
+repo_url = "https://github.com/Ral0s/ArduinoIDE"
+repo_tag = "v2.0.0-rc9.2"
+license = "AGPL-3.0"
+
+[packages.flashrom]
+name = "flashrom"
+description = "Identify, read, write, erase, and verify BIOS/ROM/flash chips"
+version = "1.2"
+repo_url = "https://github.com/Ral0s/flashrom"
+repo_tag = "v1.2"
+license = "GPL-2.0"
+package_type = "snap"
+
+[packages.srecord]
+name = "srecord"
+description = "The SRecord package is a collection of powerful tools for manipulating EPROM load files"
+version = "1.64"
+repo_url = "https://github.com/Ral0s/SRecord"
+repo_tag = "v1.64"
+license = "GPL-3.0"
+
+[packages.killerbee]
+name = "killerbee"
+description = "IEEE 802.15.4/ZigBee Security Research Toolkit"
+version = "3.0.0-beta.2"
+repo_url = "https://github.com/Ral0s/killerbee"
+repo_tag = "v3.0.0-beta.2"
+license = "BSD"
+
+[packages.gqrx]
+name = "gqrx"
+description = "Software defined radio receiver powered by GNU Radio and Qt"
+version = "2.15.9"
+repo_url = "https://github.com/Ral0s/gqrx"
+repo_tag = "v2.15.9"
+license = "BSD"
+
+[packages.attify-badge-tool]
+name = "attify-badge-tool"
+description = "Hardware Security Research and Serial Communication tool (to be used with Attify Badge)"
+version = "0.0.1"
+repo_url = "https://github.com/Ral0s/attify-badge-tool"
+repo_tag = "v0.0.1"
+license = "MIT"
+
+[packages.baudrate]
+name = "baudrate"
+description = "Baudrate detection tool"
+version = "1.0"
+repo_url = "https://github.com/Ral0s/baudrate"
+repo_tag = "v1.0"
+license = "MIT"
+
+[packages.bdaddr]
+name = "bdaddr"
+description = "Utility for changing the Bluetooth device address"
+version = "5.64"
+repo_url = "https://github.com/Ral0s/bdaddr"
+repo_tag = "v5.64"
+license = "GPL-2.0, LGPL-2.1"
+
+[packages.bluez]
+name = "bluez"
+description = "BlueZ provides support for the core Bluetooth layers and protocols. This package auto-updates to the latest version."
+version = "latest"
+repo_url = "https://github.com/Ral0s/bluez"
+repo_tag = "vlatest"
+license = "GPL-2.0, LGPL-2.1"
+package_type = "snap"
+
+[packages.fmk]
+name = "firmware-mod-kit"
+description = "A collection of scripts and utilities to extract and rebuild linux based firmware images"
+version = "0.99-8403a17"
+repo_url = "https://github.com/Ral0s/firmware-mod-kit"
+repo_tag = "v0.99-8403a17"
+license = ""
+package_type = "snap"
+
+[packages.gnuradio]
+name = "gnuradio"
+description = "The Free and Open Software Radio Ecosystem"
+version = "3.10.3.0"
+repo_url = "https://github.com/Ral0s/gnuradio"
+repo_tag = "v3.10.3.0"
+license = "GPL-3.0"
+
+[packages.linux-router]
+name = "linux-router"
+description = "Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6"
+version = "0.6.6"
+repo_url = "https://github.com/Ral0s/linux-router"
+repo_tag = "v0.6.6"
+license = "LGPL-2.1"
+
+[packages.binwalk]
+name = "binwalk"
+description = "A fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images"
+version = "2.3.3"
+repo_url = "https://github.com/Ral0s/binwalk"
+repo_tag = "v2.3.3"
+license = "MIT"
+package_type = "snap"
+
+[packages.radare2]
+name = "radare2"
+description = "The Free and Open Software Radio Ecosystem"
+version = "5.7.8"
+repo_url = "https://github.com/Ral0s/radare2"
+repo_tag = "v5.7.8"
+license = "GPL-3.0, LGPL-3.0"
+
+[packages.colordiff]
+name = "colordiff"
+description = "A tool to colorize diff output"
+version = "1.0.20"
+repo_url = "https://github.com/Ral0s/colordiff"
+repo_tag = "v1.0.20"
+license = "GPL-2.0"
+
+[packages.inspectrum]
+name = "inspectrum"
+description = "A tool for analysing captured signals, primarily from software-defined radio receivers"
+version = "march27-2022-98b998ff"
+repo_url = "https://github.com/Ral0s/inspectrum"
+repo_tag = "v98b998ff"
+license = "GPL-3.0"
+
+[packages.ook-decoder]
+name = "ook-decoder"
+description = "Ook-decoder reads On-Off Keying radio data commonly used in the 433MHz ISM bands using a software defined radio"
+version = "july19-2021-cc108f9"
+repo_url = "https://github.com/Ral0s/ook-decoder"
+repo_tag = "vcc108f9"
+license = "MIT"
+
+[packages.openocd]
+name = "OpenOCD"
+description = "The Open On-Chip Debugger (OpenOCD) aims to provide debugging, in-system programming and boundary-scan testing for embedded target devices"
+version = "0.11.0-4"
+repo_url = "https://github.com/Ral0s/OpenOCD"
+repo_tag = "v0.11.0-4"
+license = "MIT"
+
+[packages.routersploit]
+name = "routersploit"
+description = "Exploitation Framework for Embedded Devices"
+version = "3.4.0"
+repo_url = "https://github.com/Ral0s/routersploit"
+repo_tag = "v3.4.0"
+license = "BSD"
+
+[packages.cantoolz]
+name = "cantoolz"
+description = "Black-box CAN network analysis framework"
+version = "3.7.0"
+repo_url = "https://github.com/Ral0s/CANToolz"
+repo_tag = "v3.7.0"
+license = "Apache-2.0"
+
+[packages.dwarf]
+name = "dwarf"
+description = "Full featured multi arch/os debugger built on top of PyQt5 and frida"
+version = "1.1.3"
+repo_url = "https://github.com/Ral0s/Dwarf"
+repo_tag = "v1.1.3"
+license = "GPL-3.0"
+
+[packages.cotopaxi]
+name = "cotopaxi"
+description = "Set of tools for security testing of Internet of Things devices using specific network IoT protocols"
+version = "1.6.0"
+repo_url = "https://github.com/Ral0s/cotopaxi"
+repo_tag = "v1.6.0"
+license = "GPL-2.0"
+
+[packages.dumpflash]
+name = "dumpflash"
+description = "Low-level NAND Flash dump and parsing utility"
+version = "0.0.1"
+repo_url = "https://github.com/Ral0s/dumpflash"
+repo_tag = "v0.0.1"
+license = "MIT"
+
+[packages.dump1090]
+name = "dump1090"
+description = "Dump1090 is a simple Mode S decoder for RTLSDR devices"
+version = "de61bd5"
+repo_url = "https://github.com/Ral0s/dump1090"
+repo_tag = "vde61bd5"
+license = "BSD-3-Clause"
+
+[packages.urh]
+name = "urh"
+description = "Universal Radio Hacker: Investigate Wireless Protocols Like A Boss"
+version = "2.9.3"
+repo_url = "https://github.com/Ral0s/urh"
+repo_tag = "v2.9.3"
+license = "GPL-3.0"
+
+[packages.kalibrate-rtl]
+name = "kalibrate-rtl"
+description = "Fork of kalibrate for use with rtl-sdr devices"
+version = "0.4.1"
+repo_url = "https://github.com/Ral0s/kalibrate-rtl"
+repo_tag = "v0.4.1"
+license = "BSD-2-Clause"
+
+[packages.lte-cell-scanner]
+name = "LTE-Cell-Scanner"
+description = "OpenCL, SDR, TDD/FDD LTE cell scanner"
+version = "bef6ef4"
+repo_url = "https://github.com/Ral0s/LTE-Cell-Scanner"
+repo_tag = "vbef6ef4"
+license = "AGPL-3.0"
+
+[packages.spectrum_painter]
+name = "spectrum_painter"
+description = "A tool to converts images to IQ streams that make images when viewed in a waterfall plot"
+version = "0.1"
+repo_url = "https://github.com/Ral0s/spectrum_painter"
+repo_tag = "v0.1"
+license = "MIT"
+
+[packages.fwanalyzer]
+name = "fwanalyzer"
+description = "A tool to analyze filesystem images for security"
+version = "1.4.3"
+repo_url = "https://github.com/Ral0s/fwanalyzer"
+repo_tag = "v1.4.3"
+license = "Apache-2.0"
+
+[packages.gdb-multiarch]
+name = "gdb-multiarch"
+description = "GDB, the GNU Project debugger, allows you to see what is going on `inside' another program while it executes -- or what another program was doing at the moment it crashed."
+version = "12.1"
+repo_url = "https://github.com/Ral0s/gdb-multiarch"
+repo_tag = "v12.1"
+license = "GPL-3.0"
+
+[packages.iotsecfuzz]
+name = "iotsecfuzz"
+description = "A framework for for comprehensive testing of IoT device security at all levels of implementation"
+version = "1.0.0"
+repo_url = "https://github.com/Ral0s/iotsecfuzz"
+repo_tag = "v1.0.0"
+license = "MIT"
+
+[packages.drozer]
+name = "drozer"
+description = "The Leading Security Assessment Framework for Android"
+version = "a80c5f1"
+repo_url = "https://github.com/Ral0s/drozer"
+repo_tag = "va80c5f1"
+license = "BSD-3-Clause"
+
+[packages.rtl_433]
+name = "rtl_433"
+description = "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)"
+version = "21.12-146"
+repo_url = "https://github.com/Ral0s/rtl_433"
+repo_tag = "v21.12-146"
+license = "GPL-2.0"
+
+[packages.apk-mitm]
+name = "apk-mitm"
+description = "A CLI application that automatically prepares Android APK files for HTTPS inspection"
+version = "1.2.1"
+repo_url = "https://github.com/Ral0s/apk-mitm"
+repo_tag = "v1.2.1"
+license = "MIT"
+
+[packages.expliot]
+name = "expliot"
+description = "A Framework for security testing and exploiting IoT products and IoT infrastructure"
+version = "0.9.11"
+repo_url = "https://github.com/Ral0s/expliot"
+repo_tag = "v0.9.11"
+license = "AGPL-3.0"
+
+[packages.hal]
+name = "hal"
+description = "HAL – The Hardware Analyzer"
+version = "3.3.0-169"
+repo_url = "https://github.com/Ral0s/hal"
+repo_tag = "v3.3.0-169"
+license = "MIT"
+package_type = "snap"
+
+[packages.mqtt-pwn]
+name = "mqtt-pwn"
+description = "MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations"
+version = "40368e5"
+repo_url = "https://github.com/Ral0s/mqtt-pwn"
+repo_tag = "v40368e5"
+license = "GPL-3.0"
