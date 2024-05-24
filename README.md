@@ -51,3 +51,4 @@ Package index for RALOS
 | spectrum_painter  | 0.1                       |                                       | https://github.com/Ral0s/spectrum_painter  | Aug 31, 2022 |
 | SRecord           | 1.64                      |                                       | https://github.com/Ral0s/SRecord           | Aug 13, 2022 |
 | urh               | 2.9.3                     |                                       | https://github.com/Ral0s/urh               | Aug 29, 2022 |
+| mirage               | 1.2                     |                                       | https://github.com/Ral0s/mirage               | May 24, 2024 |
