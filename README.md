@@ -4,18 +4,6 @@ Package index for RALOS
 
 ## List of available packages
 
-# Package Index
-
-Package index for RALOS
-
-## List of available packages
-
-# Package Index
-
-Package index for RALOS
-
-## List of available packages
-
 | Name              | Version                   | Description                                                                                  | Comments                              | Repository URL                                | Build date   |
 |-------------------|---------------------------|----------------------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------|--------------|
 | Apktool           | 2.6.1                     | A tool for reverse engineering Android apk files                                             |                                       | https://github.com/Ral0s/apktool              | Aug 8, 2022  |
