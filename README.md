@@ -53,3 +53,4 @@ Package index for RALOS
 | urh               | 2.9.3                     | Universal Radio Hacker: Investigate Wireless Protocols Like A Boss                           |                                       | https://github.com/Ral0s/urh                  | Aug 29, 2022 |
 | mirage            | 1.2                       | Mirage: an open-source and customizable tool designed to evaluate the security of embedded systems. |                                       | https://github.com/Ral0s/mirage               | May 24, 2024 |
 | Homepwn            | 052821                       | HomePwn: Swiss Army Knife for Pentesting of IoT Devices. |                                       | https://github.com/Ral0s/homepwn               | May 26, 2024 |
+| Proxmark3            | v3.1.0                       | Proxmark3: RFID/NFC forensic and pentest tool. |                                       | https://github.com/Ral0s/proxmark3               | May 26, 2024 |
