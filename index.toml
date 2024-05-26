@@ -383,3 +383,11 @@ version = "052821"
 repo_url = "https://github.com/Ral0s/homepwn"
 repo_tag = "v052821"
 license = "GNU"
+
+[packages.proxmark3]
+name = "proxmark3"
+description = "Proxmark3: RFID/NFC forensic and pentest tool"
+version = "3.1.0"
+repo_url = "https://github.com/Ral0s/proxmark3"
+repo_tag = "v3.1.0"
+license = "GPL-3.0"
