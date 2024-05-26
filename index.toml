@@ -375,3 +375,11 @@ version = "1.2"
 repo_url = "https://github.com/Ral0s/mirage"
 repo_tag = "v1.2"
 license = "MIT"
+
+[packages.homepwn]
+name = "homepwn"
+description = "HomePwn: Swiss Army Knife for Pentesting of IoT Devices"
+version = "052821"
+repo_url = "https://github.com/Ral0s/homepwn"
+repo_tag = "v052821"
+license = "GNU"
