@@ -391,3 +391,11 @@ version = "3.1.0"
 repo_url = "https://github.com/Ral0s/proxmark3"
 repo_tag = "v3.1.0"
 license = "GPL-3.0"
+
+[packages.z3sec]
+name = "z3sec"
+description = "Z3sec is an open-source penetration testing framework focused on ZigBee security research. Use Killerbee."
+version = "317746b"
+repo_url = "https://github.com/Ral0s/Z3sec"
+repo_tag = "v317746b"
+license = "GPL-3.0"
