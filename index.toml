@@ -399,3 +399,11 @@ version = "317746b"
 repo_url = "https://github.com/Ral0s/Z3sec"
 repo_tag = "v317746b"
 license = "GPL-3.0"
+
+[packages.flashprog]
+name = "flashprog"
+description = "Utility for detecting, reading, writing, verifying and erasing flash chips including BIOS/EFI/coreboot/firmware images"
+version = "1.4"
+repo_url = "https://github.com/Ral0s/flashprog"
+repo_tag = "v1.4"
+license = "GPL-2.0"
