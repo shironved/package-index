@@ -411,7 +411,7 @@ license = "GPL-2.0"
 [packages.whad-client]
 name = "whad-client"
 description = "Wireless Hacking Device Analyzer Client"
-version = "1.2.8" # Match the version you put in your whad-client/package.toml
-repo_url = "https://github.com/shironved/whad-client" # <--- IMPORTANT: This points to YOUR new whad-client repo!
-repo_tag = "1.2.8v" # Use 'main' if you haven't created a specific release tag in your whad-client repo yet
-license = "MIT" # Must match the license you specified in your whad-client/package.toml
+version = "1.2.8"
+repo_url = "https://github.com/shironved/whad-client" 
+repo_tag = "v1.2.8"
+license = "MIT" 
