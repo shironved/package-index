@@ -415,3 +415,11 @@ version = "1.2.8"
 repo_url = "https://github.com/shironved/whad-client" 
 repo_tag = "v1.2.8"
 license = "MIT" 
+
+[packages.airgeddon]
+name = "airgeddon"
+description = "Wireless wifi auditing tool framework"
+version = "11.50"
+repo_url = "https://github.com/shironved/airgeddon" 
+repo_tag = "v11.50"
+license = "GPL-3.0" 
