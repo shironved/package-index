@@ -56,3 +56,4 @@ Package index for RALOS
 | Proxmark3            | v3.1.0                       | Proxmark3: RFID/NFC forensic and pentest tool. |                                       | https://github.com/Ral0s/proxmark3               | May 26, 2024 |
 | Flashprog   | 1.4 | Flashprog: Utility for detecting, reading, writing, verifying and erasing flash chips including BIOS/EFI/coreboot/firmware images |  | https://github.com/Ral0s/flashprog | June 6, 2025 |
 | whad-client | v1.2.8 | whad client tools help with hacking radio and wireless protocols | | https://github.com/shironved/whad-client | july 18, 2025 |
+| airgeddon | v11.50 | Wifi wireless auditing tool | | https://github.com/shironved/airgeddon | july 25, 2025 |
